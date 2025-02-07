@@ -41,3 +41,8 @@ The game is developed using the following technologies:
 - **JavaScript**: Game logic and interactivity.
 - **React JS**: Enhance UI and manage application state efficiently.
 
+# 🚀 Get Started
+
+## Wireframe
+
+![Wireframe](./docs/image.png)
