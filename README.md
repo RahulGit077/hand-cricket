@@ -39,6 +39,7 @@ The game is developed using the following technologies:
 - **HTML**: Structure and content.
 - **CSS**: Styling and layout design.
 - **JavaScript**: Game logic and interactivity.
+- **Node**: Run JS.
 - **React JS**: Enhance UI and manage application state efficiently.
 
 # 🚀 Get Started
